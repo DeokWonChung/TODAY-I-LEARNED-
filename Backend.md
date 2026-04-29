@@ -14,7 +14,7 @@
 - API_URL: base url
 
 ## 코드 구조화 방안 FOR 가독성 및 재사용성
-1. service layer 두기
+1. service layer 두기(Example_Of_Service.js)
    - 비즈니스 로직과 외부 API통신을 전담하는 Service Layer을 두는 것
    - API호출 로직과 라우터가 분리되어 코드 파악 용이
    - 
